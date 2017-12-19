@@ -1,0 +1,1 @@
+Solutions for http://www.lantmateriet.se/knackkoden
